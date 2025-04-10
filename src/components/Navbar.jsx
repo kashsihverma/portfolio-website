@@ -64,7 +64,7 @@ const Navbar = () => {
             <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
             <p className="text-white text-[20px] font-bold cursor-pointer flex">
               KASHISH&nbsp;
-              <span className="sm:block hidden">KOLLURI</span>
+              <span className="sm:block hidden">VERMA</span>
             </p>
           </Link>
           {renderNavLinks(false)}
